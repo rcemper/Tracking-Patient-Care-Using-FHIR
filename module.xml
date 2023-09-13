@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Export generator="Cache" version="25">
+  <Document name="oximeter.ZPM">
+    <Module>
+      <Name>oximeter</Name>
+	  <Description>oximeter demo+solution</Description> 
+      <Version>2.0.0</Version>
+      <Packaging>module</Packaging>
+      <SourcesRoot>src</SourcesRoot>
+      <Resource Name="Demo.PKG"/>
+      <Resource Name="Solution.PKG"/>
+    </Module>
+  </Document>
+</Export>
