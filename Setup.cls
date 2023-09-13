@@ -7,7 +7,7 @@ ClassMethod setUpFHIR() As %Status
     set $namespace = "HSLIB"
     set baseDir = "/opt/app/"
 #;    set status = ##class(HS.HC.Util.Installer).InstallFoundation("R4FHIRNamespace")
-    set status = ##class(HS.Util.Installer.Foundation("R4FHIRNamespace")
+    set status=##class(HS.Util.Installer.Foundation).Install("R4FHIRNamespace")
     $$$ThrowOnError(status)
 
     // Switch to newly created namespace
