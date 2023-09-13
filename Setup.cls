@@ -51,7 +51,8 @@ ClassMethod setUpLearningLab() as %Status
     set $namespace = "HSLIB"
     set baseDir = "/home/project/shared/Samples-FHIR-Oximeter-Devices/"
 
-    set status = ##class(HS.HC.Util.Installer).InstallFoundation("R4FHIRNamespace")
+#;    set status = ##class(HS.HC.Util.Installer).InstallFoundation("R4FHIRNamespace")
+	set status = ##class(HS.Util.Installer.Foundation).Install("R4FHIRNamespace")
     $$$ThrowOnError(status)
 
     // Switch to newly created namespace
