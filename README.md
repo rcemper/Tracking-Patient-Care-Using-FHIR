@@ -15,6 +15,7 @@ This package was adopted from the [orphaned predecessor](https://openexchange.in
 - added installation guide
 - added quality tag  
 - enhanced README
+- added screenshot
 
 ### Prerequisites    
 Make sure you have [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and [Docker desktop](https://www.docker.com/products/docker-desktop) installed.    
