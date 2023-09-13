@@ -1,3 +1,4 @@
+[![Quality Gate Status](https://community.objectscriptquality.com/api/project_badges/measure?project=intersystems_iris_community%2FSamples-FHIR-Oximeter-Devices-AD&metric=alert_status)](https://community.objectscriptquality.com/dashboard?id=intersystems_iris_community%2FSamples-FHIR-Oximeter-Devices-AD)    
 
 # Tracking Patient Care Using FHIR
 
@@ -11,7 +12,8 @@ This package was adopted from the [orphaned predecessor](https://openexchange.in
 - fixed broken install script   
 - adjusted code changes in HS  
 - added support for IPM  
-- added installation guide  
+- added installation guide
+- added quality tag  
 - enhanced README
 
 ### Prerequisites    
