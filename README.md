@@ -19,21 +19,21 @@ Clone/git pull the repo into any local directory
 git https://github.com/rcemper/Samples-FHIR-Oximeter-Devices-AD.git
 ````    
    
-Build the container with your project:   
+Build the container with your project:     
 
 ````
 docker compose --progress plain build
 ````
 
-Run the container
+Run the container     
 
  ````
 docker compose up -d
 ````
-To follow the startup you may use
+To follow the startup you may use     
 
 ````
-docker compose logs -f
+docker compose logs -f 
 ````
 [Article in Learning](https://learning.intersystems.com/course/view.php?name=FHIROximeter)
 
