@@ -6,17 +6,10 @@ In this exercise, you will modify an existing InterSystems IRIS for Health™ sy
 
 See instructions for *[Tracking Patient Care Using FHIR](https://learning.intersystems.com/course/view.php?name=FHIROximeter)* exercise on the [InterSystems Learning site](https://learning.intersystems.com/).
 
-This package was adopted from the [orphaned predecessor](https://openexchange.intersystems.com/package/Samples-FHIR-Oximeter-Devices)    
-- fixed dockerfile to be version independent   
-- fixed pending mapping to SuperServer  
-- fixed broken install script   
-- adjusted code changes in HS  
-- added support for IPM  
-- added installation guide
-- added quality tag  
-- enhanced README
-- added screenshot
-
+This package has   
+- support for IPM  
+- quality tag  
+  
 ### Prerequisites    
 Make sure you have [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and [Docker desktop](https://www.docker.com/products/docker-desktop) installed.    
 ### Installation   
