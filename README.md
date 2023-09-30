@@ -1,4 +1,4 @@
-[![Quality Gate Status](https://community.objectscriptquality.com/api/project_badges/measure?project=intersystems_iris_community%2FSamples-FHIR-Oximeter-Devices-AD&metric=alert_status)](https://community.objectscriptquality.com/dashboard?id=intersystems_iris_community%2FSamples-FHIR-Oximeter-Devices-AD)    
+[![objectscriptquality](https://github.com/rcemper/Tracking-Patient-Care-Using-FHIR/actions/workflows/objectscript-quality.yml/badge.svg)](https://github.com/rcemper/Tracking-Patient-Care-Using-FHIR/actions/workflows/objectscript-quality.yml)
 
 # Tracking Patient Care Using FHIR
 
